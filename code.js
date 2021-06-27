@@ -1,12 +1,13 @@
-function firstFunction() {
-    console.log("First");
+function lastFunction() {
+    console.log("last");
+}
+function frstFunction() {
+    console.log("vchjucvu")
 }
 
 function noIamFirstFunction() {
-    console.log("hi i am First");
+    console.log("hi i am First yeeeeeeeeey");
 }
-
-
 
 function noIamFirstFunction() {
     console.log("hi i am bkjgbigFirst");
